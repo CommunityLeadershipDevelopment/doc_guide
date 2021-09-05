@@ -23,7 +23,7 @@
 
   3. Contributing相关 （jennifer负责）
 
-  4. [COC（Code of Conduct 行为规范）相关 （谭中意负责）](cod.md)
+  4. [COC（Code of Conduct 行为规范）相关 （谭中意负责）](coc.md)
 
 ## 本项目文档的规范
 ### 每个文档分为三个部分
