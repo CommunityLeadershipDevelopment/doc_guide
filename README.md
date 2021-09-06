@@ -34,4 +34,4 @@
 3. 第三部分是一个checklist，针对第一部分的要求给出的多个check item，可以供工程师进行文档的check
 
 ## Code of Conduct
-[本项目遵守如下的行为规范](cod.md)
+[本项目遵守如下的行为规范](coc.md)
