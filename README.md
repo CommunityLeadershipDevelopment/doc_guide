@@ -25,10 +25,13 @@
 
   3. Contributing相关 （jennifer负责）
 
-  4. [COC（Code of Conduct 行为规范）相关 （谭中意负责）](coc.md)
+  4. [COC（Code of Conduct 行为规范）相关 （谭中意负责）](coc_guide.md)
 
 ## 本项目文档的规范
 ### 每个文档分为三个部分
 1. 第一部分阐述本文档的目的和作用，以及应该有哪些章节，每个章节应该达到的质量要求
 2. 第二部分给出一个live的例子，即在github上存在的，觉得不错的例子
 3. 第三部分是一个checklist，针对第一部分的要求给出的多个check item，可以供工程师进行文档的check
+
+## Code of Conduct
+[本项目遵守如下的行为规范](cod.md)
