@@ -14,14 +14,14 @@
   |---|---|--|
   |谭中意|tanzhongyi003|开放原子基金会
   |周鹏飞|||     
-  |刘昱
+  |Yu |Anonymitaet|ASF
   |jennifer
 
 ## 文档列表
 
   1. Readme相关 （鹏飞负责）
 
-  2. Quick start相关 （刘昱负责）
+  2. [快速上手指南](quick_start_guide.md)（Yu 负责）
 
   3. Contributing相关 （jennifer负责）
 
@@ -32,6 +32,10 @@
 1. 第一部分阐述本文档的目的和作用，以及应该有哪些章节，每个章节应该达到的质量要求
 2. 第二部分给出一个live的例子，即用在真实的知名项目中，觉得还不错的例子
 3. 第三部分是一个Checklist，针对第一部分的要求给出的多个Check Items，可以供工程师进行文档的检查
+  
+## 快速上手指南
+
+[这是「快速上手指南」的写作规范](quick_start_guide.md)，仅供参考。
 
 ## Code of Conduct
 [本项目遵守如下的行为规范](coc.md)
