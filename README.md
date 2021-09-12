@@ -15,7 +15,7 @@
   |谭中意|tanzhongyi003|开放原子基金会
   |周鹏飞|||     
   |Yu |Anonymitaet|ASF
-  |jennifer
+  |Jennifer Huang |Jennifer88huang | StreamNative / ASF| 
 
 ## 文档列表
 
