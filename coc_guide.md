@@ -14,7 +14,7 @@ A code of conduct is a set of rules outlining the norms, rules, and responsibili
 1. 适用范围  
 要求：需要讲清楚该COC的适用范围
 * 在何处生效（仅适用于问题和请求，还是还包括类似事件的社区活动？）
-* 适用于谁（社区成员和维护者，是否还有赞助者呢？）
+* 适用人员/群体（社区成员和维护者，是否还有赞助者呢？）
 
 
 2. 行为规范  
