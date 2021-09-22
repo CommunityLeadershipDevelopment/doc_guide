@@ -18,7 +18,7 @@
   |谭中意|tanzhongyi003|开放原子基金会|
   |周鹏飞|FeynmanZhou|KubeSphere 社区|     
   |Yu |Anonymitaet|ASF
-  |Jennifer Huang |Jennifer88huang | StreamNative / ASF| 
+  |Jennifer Huang |[Jennifer88huang](https://github.com/Jennifer88huang) | StreamNative / ASF| 
 
 ## 文档列表
 
@@ -26,7 +26,7 @@
 
   2. [快速上手指南](quick_start_guide.md)（Yu 负责）
 
-  3. Contributing相关 （jennifer负责）
+  3. [Contributing相关（Jennifer负责）](contributing.md) 
 
   4. [COC（Code of Conduct 行为规范）相关 （谭中意负责）](coc_guide.md)
 
