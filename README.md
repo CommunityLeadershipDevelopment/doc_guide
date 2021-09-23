@@ -17,7 +17,7 @@
   |---|---|--|
   |谭中意|[tanzhongyi003](https://github.com/tanzhongyi003)|开放原子基金会|
   |周鹏飞|[FeynmanZhou](https://github.com/FeynmanZhou)|KubeSphere 社区|     
-  |Yu |[Anonymitaet](https://github.com/Anonymitaet)|ASF
+  |Yu |[Anonymitaet](https://github.com/Anonymitaet)|StreamNative / ASF
   |Jennifer Huang |[Jennifer88huang](https://github.com/Jennifer88huang) | StreamNative / ASF| 
 
 ## 文档列表
