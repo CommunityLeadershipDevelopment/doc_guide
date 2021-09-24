@@ -49,6 +49,7 @@ Apache 软件基金会、CNCF、Linux Foundation 等有成千上万的开源项�
 5. 尝试担任 PMC Chair
 6. 成为 ASF 成员
 
+![贡献之旅](images/contribution-journey.png)
 
 # 示例
 
