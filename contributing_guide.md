@@ -32,16 +32,7 @@ Apache 软件基金会、CNCF、Linux Foundation 等有成千上万的开源项�
 - ......
 
 ## 贡献流程
-1. Fork
-2. 克隆（Clone）
-3. 同步（Sync）
-4. 创建分支
-5. 提交更改
-6. 推到远端 （Push）
-7. 创建 PR
-8. Review 
-9. 根据 review 建议修改
-10. 合并（Merge）
+请描述清楚贡献的各个步骤（例如先fork，再。。）
 
 # 示例
 
