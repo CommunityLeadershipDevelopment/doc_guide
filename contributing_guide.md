@@ -32,7 +32,9 @@ Apache 软件基金会、CNCF、Linux Foundation 等有成千上万的开源项�
 - ......
 
 ## 贡献流程
-请描述清楚贡献的各个步骤（例如先fork，再。。）
+描述贡献的各个步骤，比如先 fork，再 Clone... 等。
+
+详细步骤，可以参考 [本项目贡献者指南](contributing.md)。 
 
 # 示例
 
