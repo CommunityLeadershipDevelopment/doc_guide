@@ -8,8 +8,6 @@
 
 - 开源社区鼓励大家公开协作，无论你擅长什么，只要你愿意，你都可以在开源的舞台上发光发热。你付出的越多，收获的就越多。
 
-- 欢迎大家为我们的项目做贡献：如果你发现任何需要修改、完善的地方，请提 [issue](https://github.com/CommunityLeadershipDevelopment/doc_guide/issues) 或者 [PR](https://github.com/CommunityLeadershipDevelopment/doc_guide/pulls)。
-
 # 为什么要贡献开源
 从公司的角度来说，大部分企业有充足的理由去贡献开源项目，并因此受益，比如：
 - 吸引人才
