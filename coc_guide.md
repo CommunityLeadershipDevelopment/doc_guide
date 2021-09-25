@@ -31,7 +31,7 @@ A code of conduct is a set of rules outlining the norms, rules, and responsibili
 
 ## COC的Checklist
 1. 项目主Repo的根目录下是否有COC文件
-2. 项目的Readme是否有到COC文件的说明和链接
+2. 项目Readme文件中是否有到COC文件的说明和链接
 3. COC是否包含了如下部分
   * 适用范围
   * 不可接受的行为列表
