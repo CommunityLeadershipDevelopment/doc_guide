@@ -35,3 +35,12 @@
 ## 许可证
 
 请在 README 底部声明此开源项目所采用的开源许可证。
+
+
+## Readme的Checklist
+- [ ] 项目主Repo的根目录下是否有Readme文件（
+- [ ] Readme是否包含了如下部分
+  - [ ] 项目介绍
+  - [ ] 到quickstart/contributing/coc/license的链接
+- [ ] 项目介绍是否通俗易懂
+
