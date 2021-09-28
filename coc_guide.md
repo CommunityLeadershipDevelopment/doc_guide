@@ -33,7 +33,7 @@ A code of conduct is a set of rules outlining the norms, rules, and responsibili
 - [ ] 项目主Repo的根目录下是否有COC文件
 - [ ] 项目Readme文件中是否有到COC文件的说明和链接
 - [ ] COC是否包含了如下部分
- - [ ]适用范围
- - [ ]不可接受的行为列表
- - [ ] 举报途径或者处罚方法
+  - [ ] 适用范围
+  - [ ] 不可接受的行为列表
+  - [ ] 举报途径或者处罚方法
 - [ ] COC中的内容是否通俗易懂
