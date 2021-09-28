@@ -38,8 +38,8 @@
 
 
 ## Readme的Checklist
-- [ ] 项目主Repo的根目录下是否有Readme文件（
-- [ ] Readme是否包含了如下部分
+- [ ] 项目主Repo的根目录下是否有Readme文件（文件名可以多样）
+- [ ] Readme文件是否包含了如下部分
   - [ ] 项目介绍
   - [ ] 到quickstart/contributing/coc/license的链接
 - [ ] 项目介绍是否通俗易懂
