@@ -30,10 +30,10 @@ A code of conduct is a set of rules outlining the norms, rules, and responsibili
 3. [CNCF基金会的COC](https://github.com/cncf/foundation/blob/master/code-of-conduct-languages/zh.md)
 
 ## COC的Checklist
-1. 项目主Repo的根目录下是否有COC文件
-2. 项目Readme文件中是否有到COC文件的说明和链接
-3. COC是否包含了如下部分
-  * 适用范围
-  * 不可接受的行为列表
-  * 举报途径或者处罚方法
-4. COC中的内容是否通俗易懂
+- [ ] 项目主Repo的根目录下是否有COC文件
+- [ ] 项目Readme文件中是否有到COC文件的说明和链接
+- [ ] COC是否包含了如下部分
+ - [ ]适用范围
+ - [ ]不可接受的行为列表
+ - [ ] 举报途径或者处罚方法
+- [ ] COC中的内容是否通俗易懂
