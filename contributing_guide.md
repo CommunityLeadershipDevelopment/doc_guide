@@ -39,8 +39,8 @@ Apache 软件基金会、CNCF、Linux Foundation 等有成千上万的开源项�
 # 示例
 
 - [ASF 贡献者指南](https://community.apache.org/newcomers/) 
-- [Apache Pulsar 贡献者指南](https://pulsar.apache.org/en/contributing/) 
-- [KubeSphere 贡献指南](https://kubesphere.io/contribution/)
+- [Apache Pulsar 贡献者指南](https://github.com/apache/pulsar/blob/master/CONTRIBUTING.md) 
+- [KubeSphere 贡献指南](https://github.com/kubesphere/community)
 
 # Checklist
 - [ ] 项目主 repo 的根目录中是否有贡献者指南
