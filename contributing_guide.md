@@ -34,7 +34,7 @@ Apache 软件基金会、CNCF、Linux Foundation 等有成千上万的开源项�
 ## 贡献流程
 描述贡献的各个步骤，比如先 fork，再 Clone... 等。
 
-详细步骤，可以参考 [本项目贡献者指南](contributing.md)。 
+详细步骤，可以参考 [本项目贡献者指南](CONTRIBUTING.md)。 
 
 # 示例
 
@@ -43,7 +43,7 @@ Apache 软件基金会、CNCF、Linux Foundation 等有成千上万的开源项�
 - [KubeSphere 贡献指南](https://kubesphere.io/contribution/)
 
 # Checklist
-1. 项目主 repo 的根目录中是否有贡献者指南
-2. 项目 readme 中是否提及贡献者指南
-3. 贡献者指南中包含哪些内容
-4. 贡献者指南是否简介明了、清晰易懂
+- [ ] 项目主 repo 的根目录中是否有贡献者指南
+- [ ] 项目 readme 中是否提及贡献者指南
+- [ ] 贡献者指南中包含哪些内容
+- [ ] 贡献者指南是否简介明了、清晰易懂
