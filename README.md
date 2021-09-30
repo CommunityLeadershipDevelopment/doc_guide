@@ -43,7 +43,7 @@
 [这是「快速上手指南」的写作规范](quick_start_guide.md)，仅供参考
 
 ## 如何贡献
-[本项目欢迎贡献](contributing.md)
+[本项目欢迎贡献](CONTRIBUTING.md)
 
 ## Code of Conduct
 [本项目遵守如下的行为规范](coc.md)
