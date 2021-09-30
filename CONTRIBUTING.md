@@ -3,7 +3,7 @@
 如果你在使用本仓库时，发现任何问题或者有修改建议，欢迎提出来并修改，成为我们的贡献者。
 
 ## Markdown
-本仓库下所有文件均为 [Markdown](https://www.markdownguide.org/) 文件。要想了解 Markdown 快速上手，可以查看[快速入门](https://www.markdownguide.org/getting-started).
+本仓库下所有文件均为 [Markdown](https://www.markdownguide.org/) 文件。要想了解 Markdown 快速上手，可以查看[快速入门](https://www.markdownguide.org/getting-started)。
 
 ## 贡献流程
 
@@ -59,7 +59,7 @@ $ git checkout -b myfeature
 
 ### 步骤五: 修改内容
 
-在新创建的分支修改内容。
+在新创建的分支中修改内容。
 
 ### 步骤六: 提交（Commit）
 
@@ -80,7 +80,7 @@ git add -u (add modified and deleted files, not include new files)
 git add . (add new and modified files, not including deleted files)
 ```
 
-### 步骤七：把修改推到远端仓库（Push）
+### 步骤七：把变更推到远端仓库（Push）
 
 完成修改后，需要把修改内容推到你 fork 的远端仓库。
 
@@ -98,6 +98,6 @@ $ git push origin myfeature
 
 恭喜你成为我们的贡献者！
 
-> **建议**
-> PR 内容修改少，会更容易审校、合并。
-> 如果你要修改的内容很多，涉及多个文件，可以分开提 PR。
+> **建议**    
+> PR 内容修改少，会更容易审校、合并。   
+> 如果你要修改的内容很多，涉及多个文件，可以分开提 PR。   
