@@ -18,23 +18,23 @@
 
 ```sh
 $ cd $working_dir
-$ git clone https://github.com/$user/CommunityLeadershipDevelopment/doc_guide
+$ git clone https://github.com/$user/doc_guide
 ```
 
 把你克隆的仓库加成 upstream。
 
 ```sh
-$ cd $working_dir/CommunityLeadershipDevelopment/doc_guide
-$ git remote add upstream https://github.com/$user/CommunityLeadershipDevelopment/doc_guide.git
+$ cd $working_dir/doc_guide
+$ git remote add upstream https://github.com/CommunityLeadershipDevelopment/doc_guide.git
 ```
 
 使用 `git remote -v` 命令查看远端仓库：
 
 ```
-origin    https://github.com/$user/CommunityLeadershipDevelopment/doc_guide.git (fetch)
-origin    https://github.com/$user/CommunityLeadershipDevelopment/doc_guide.git (push)
-upstream  https://github.com/$user/CommunityLeadershipDevelopment/doc_guide (fetch)
-upstream  https://github.com/$user/CommunityLeadershipDevelopment/doc_guide (push)
+origin    https://github.com/$user/doc_guide.git (fetch)
+origin    https://github.com/$user/doc_guide.git (push)
+upstream  https://github.com/CommunityLeadershipDevelopment/doc_guide (fetch)
+upstream  https://github.com/CommunityLeadershipDevelopment/doc_guide (push)
 ```
 
 ### 步骤三: 同步分支
@@ -42,7 +42,7 @@ upstream  https://github.com/$user/CommunityLeadershipDevelopment/doc_guide (pus
 确保你的分支和远端内容一致。
 
 ```sh
-$ cd $working_dir/CommunityLeadershipDevelopment/doc_guide
+$ cd $working_dir/doc_guide
 $ git checkout master
 $ git fetch upstream
 $ git rebase upstream/master
@@ -90,7 +90,7 @@ $ git push origin myfeature
 
 ### 步骤八: 创建 PR（pull request）
 
-1. 访问你 fork 的仓库 https://github.com/$user/CommunityLeadershipDevelopment/doc_guide 。
+1. 访问你 fork 的仓库 https://github.com/$user/doc_guide 。
 2. 点击 `Compare & pull request` 。
 
 ### 步骤九: 审校（review）
