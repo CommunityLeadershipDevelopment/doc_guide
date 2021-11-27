@@ -47,3 +47,8 @@
 
 ## Code of Conduct
 [本项目遵守如下的行为规范](coc.md)
+
+## 开源项目技术传播社区的二维码如下，欢迎大家扫码加入，和我们一起讨论开源项目技术传播的事情，包括技术文档协作，技术线上和线下布道等等。
+![wechat group](images/Wechatgroup.jpeg)
+
+
