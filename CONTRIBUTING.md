@@ -14,7 +14,7 @@
 
 ### 步骤二: Clone
 
-点击 **Code > Cone**。
+点击 **Code > Clone**。
 
 ```sh
 $ cd $working_dir
