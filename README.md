@@ -14,7 +14,7 @@
 
 ## 贡献者
 
-  |名字|github id|所属公司或组织|  
+  |名字|GitHub ID|所属公司或组织|  
   |---|---|--|
   |谭中意|[tanzhongyi003](https://github.com/tanzhongyi003)|开放原子基金会|
   |周鹏飞|[FeynmanZhou](https://github.com/FeynmanZhou)|KubeSphere 社区|     
